@@ -126,14 +126,14 @@ end alfred_script</string>
 			<key>xpos</key>
 			<integer>60</integer>
 			<key>ypos</key>
-			<integer>220</integer>
+			<integer>215</integer>
 		</dict>
 		<key>39EF7261-B642-4E18-AB12-FF0765C1DFCE</key>
 		<dict>
 			<key>xpos</key>
-			<integer>280</integer>
+			<integer>235</integer>
 			<key>ypos</key>
-			<integer>140</integer>
+			<integer>135</integer>
 		</dict>
 		<key>910C24FD-1D02-42A4-8FF0-C464E0CF60D7</key>
 		<dict>
