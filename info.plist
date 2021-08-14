@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.pawelgrzybek.dark-mode</string>
+	<string>com.pawelgrzybek.theme</string>
 	<key>category</key>
 	<string>Productivity</string>
 	<key>connections</key>
@@ -38,13 +38,13 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string></string>
+	<string>Pawel Grzybek</string>
 	<key>description</key>
-	<string></string>
+	<string>Toggle between light and dark themes</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Dark Mode</string>
+	<string>Theme</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -53,11 +53,11 @@
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>keyword</key>
-				<string>dark</string>
+				<string>theme</string>
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
-				<string>Toggle dark mode</string>
+				<string>Toggle betwwn light/dark mode</string>
 				<key>withspace</key>
 				<false/>
 			</dict>
@@ -143,7 +143,11 @@ end alfred_script</string>
 			<integer>60</integer>
 		</dict>
 	</dict>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>1.0.0</string>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://pawelgrzybek.com</string>
 </dict>
 </plist>
