@@ -1,4 +1,4 @@
-# Alfred dark mode
+# Alfred theme
 
 Alfred workflow to toggle between light and dark mode.
 
